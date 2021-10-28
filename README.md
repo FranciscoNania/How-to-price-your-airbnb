@@ -3,7 +3,7 @@
 ## Installation
 Most of the libraries are in the Anaconda package. You will need to enter your own token for mapbox, here is some documentation on how to do it: https://docs.mapbox.com/help/getting-started/access-tokens/
 
-##Files Description
+## Files Description
 listings.csv -  Dataset from Airbnb - Rio de Janeiro - Brazil
 		Available at http://insideairbnb.com/get-the-data.html
 Project1.ipynb - Jupyter notebook file containing analysis on dataset listed above
@@ -19,7 +19,7 @@ The main purpose of this project was developing my skills as a Data Scientist, t
 The main findings of the code can be found at the post below:
 https://francisco-nania.medium.com/how-to-price-your-place-on-airbnb-9ffcd6f8bf31
 
-##Acknowledments
+## Acknowledments
 
 credit to https://www.educative.io/edpresso/how-to-count-unique-items-in-pandas for two awesome functions
 
