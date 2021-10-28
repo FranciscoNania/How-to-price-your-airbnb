@@ -6,6 +6,7 @@ Most of the libraries are in the Anaconda package. You will need to enter your o
 ## Files Description
 listings.csv -  Dataset from Airbnb - Rio de Janeiro - Brazil
 		Available at http://insideairbnb.com/get-the-data.html
+		
 Project1.ipynb - Jupyter notebook file containing analysis on dataset listed above
 
 ## Project Motivation
@@ -17,6 +18,7 @@ The main purpose of this project was developing my skills as a Data Scientist, t
 
 ## Results
 The main findings of the code can be found at the post below:
+
 https://francisco-nania.medium.com/how-to-price-your-place-on-airbnb-9ffcd6f8bf31
 
 ## Acknowledments
