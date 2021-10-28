@@ -18,3 +18,10 @@ The main purpose of this project was developing my skills as a Data Scientist, t
 ## Results
 The main findings of the code can be found at the post below:
 https://francisco-nania.medium.com/how-to-price-your-place-on-airbnb-9ffcd6f8bf31
+
+##Acknowledments
+
+credit to https://www.educative.io/edpresso/how-to-count-unique-items-in-pandas for two awesome functions
+
+And also Udacity for a great Data Science course and several tips!
+
